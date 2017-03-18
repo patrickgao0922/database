@@ -1,5 +1,4 @@
 
-import promise from "bluebird"
 import mysql from "mysql"
 import fs from "fs"
 
