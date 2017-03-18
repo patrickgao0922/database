@@ -4,5 +4,5 @@ export default {
 	password:"C!H7=xLZcgOu",
 	database:"igloosof_homecontrol",
 	connectionLimit: 10,
-	access_private_key:__dirname + "/../../misc/rds-combined-ca-bundle.pem"
+	access_private_key:__dirname + "/misc/rds-combined-ca-bundle.pem"
 }
